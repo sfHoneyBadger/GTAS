@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/US-CBP/GTAS.svg)](http://hits.dwyl.io/US-CBP/GTAS)
-
 ## Resources
 
 * [How to Install Complete GTAS Environment with Docker in 25 min] (https://youtu.be/vR9ihvtP5BA)
